@@ -12,6 +12,6 @@ The script could be modified for calibrations in other study areas.
 2. It is easier to use [Rstudio](https://posit.co/downloads/)
 3. Download this GitHub repository from ZIP file (by clicing on the green button `<> Code` beyond. 
 ## To run the full code
-	- Many `R` package are necessary to run this script. Check if all required package are already installed in case of error appearing during the script process.
-	- Open the `GDGT_ACADB.Rproj` file in Rstudio
-	- In the section `#### Select figures / tables to plot ####` change the boolean value to `TRUE` or `FALSE` to plot the selected figure or table
+1. Many `R` package are necessary to run this script. Check if all required package are already installed in case of error appearing during the script process.
+2. Open the `GDGT_ACADB.Rproj` file in Rstudio
+3. In the section `#### Select figures / tables to plot ####` change the boolean value to `TRUE` or `FALSE` to plot the selected figure or table
